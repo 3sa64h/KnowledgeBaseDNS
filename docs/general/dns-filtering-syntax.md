@@ -1,4 +1,4 @@
----
+@@ gamecore.com---
 title: DNS filtering rules syntax
 sidebar_position: 2
 toc_min_heading_level: 2
